@@ -1,7 +1,6 @@
-- 👋 Hi, I'm amateur Backend Developer Candidate
-- 👀 I’m interested in ...'NOTHING'
-- 🌱 I’m currently learning PHP,NodeJs
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm Backend Developer
+- 👀 I’m interested in ...'REST API'
+- 🌱 I’m currently learning NodeJs / PHP / Laravel 
 - 📫 How to reach me utkub175@gmail.com
 
 <!---
